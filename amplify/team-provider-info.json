@@ -1,0 +1,20 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-vloging-dev-110734-authRole",
+      "UnauthRoleArn": "arn:aws:iam::633890674149:role/amplify-vloging-dev-110734-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::633890674149:role/amplify-vloging-dev-110734-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-vloging-dev-110734-deployment",
+      "UnauthRoleName": "amplify-vloging-dev-110734-unauthRole",
+      "StackName": "amplify-vloging-dev-110734",
+      "StackId": "arn:aws:cloudformation:us-east-1:633890674149:stack/amplify-vloging-dev-110734/c8d8d6c0-ce8c-11ec-be6e-0aac1f1b8ceb",
+      "AmplifyAppId": "d22atcuyy6crag"
+    },
+    "categories": {
+      "auth": {
+        "vloging85fbde83": {}
+      }
+    }
+  }
+}

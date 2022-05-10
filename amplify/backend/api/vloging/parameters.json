@@ -1,0 +1,11 @@
+{
+  "AppSyncApiName": "vloging",
+  "DynamoDBBillingMode": "PAY_PER_REQUEST",
+  "DynamoDBEnableServerSideEncryption": false,
+  "AuthCognitoUserPoolId": {
+    "Fn::GetAtt": [
+      "authvloging85fbde83",
+      "Outputs.UserPoolId"
+    ]
+  }
+}
